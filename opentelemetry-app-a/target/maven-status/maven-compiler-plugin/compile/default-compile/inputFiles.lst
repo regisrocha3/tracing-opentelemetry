@@ -1,0 +1,7 @@
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/Application.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/config/AppConfig.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/tracerabbitmq/api/TracingRabbitFeignController.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/tracefeign/client/TracingMongoClient.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/traceapi/api/AppAController.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/tracefeign/api/TracingMongoFeignController.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-a/src/main/java/io/rrlabs/tracing/opentelemetry/traceapi/service/Service1.java

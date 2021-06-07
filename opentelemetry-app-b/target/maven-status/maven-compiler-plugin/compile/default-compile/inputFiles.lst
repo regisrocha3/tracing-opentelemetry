@@ -1,0 +1,12 @@
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/Application.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/rabbitmq/config/TopicConfig.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/mongodb/domain/TracingMongo.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/traceapi/api/AppBController.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/mongodb/api/TracingMongoController.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/mongodb/domain/repository/TracingMongoRepository.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/traceapi/domain/TestEntity.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/traceapi/domain/repository/TestEntityRepository.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/traceapi/domain/service/ServiceTracing.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/mongodb/domain/service/TracingMongoService.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/rabbitmq/listener/TracingRabbitListener.java
+/home/regis/app/projects/tracing-opentelemetry/opentelemetry-app-b/src/main/java/io/rrlabs/tracing/opentelemetry/config/AppConfig.java

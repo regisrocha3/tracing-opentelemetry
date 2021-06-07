@@ -1,0 +1,13 @@
+io/rrlabs/tracing/opentelemetry/traceapi/api/AppBController.class
+io/rrlabs/tracing/opentelemetry/config/AppConfig.class
+io/rrlabs/tracing/opentelemetry/rabbitmq/config/TopicConfig.class
+io/rrlabs/tracing/opentelemetry/traceapi/domain/service/ServiceTracing.class
+io/rrlabs/tracing/opentelemetry/mongodb/domain/service/TracingMongoService.class
+io/rrlabs/tracing/opentelemetry/mongodb/domain/repository/TracingMongoRepository.class
+io/rrlabs/tracing/opentelemetry/mongodb/api/TracingMongoController.class
+io/rrlabs/tracing/opentelemetry/Application.class
+io/rrlabs/tracing/opentelemetry/mongodb/domain/TracingMongo.class
+io/rrlabs/tracing/opentelemetry/rabbitmq/listener/TracingRabbitListener.class
+io/rrlabs/tracing/opentelemetry/mongodb/domain/TracingMongo$TracingMongoBuilder.class
+io/rrlabs/tracing/opentelemetry/traceapi/domain/TestEntity.class
+io/rrlabs/tracing/opentelemetry/traceapi/domain/repository/TestEntityRepository.class

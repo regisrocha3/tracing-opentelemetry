@@ -1,0 +1,7 @@
+io/rrlabs/tracing/opentelemetry/Application.class
+io/rrlabs/tracing/opentelemetry/config/AppConfig.class
+io/rrlabs/tracing/opentelemetry/traceapi/service/Service1.class
+io/rrlabs/tracing/opentelemetry/tracerabbitmq/api/TracingRabbitFeignController.class
+io/rrlabs/tracing/opentelemetry/traceapi/api/AppAController.class
+io/rrlabs/tracing/opentelemetry/tracefeign/api/TracingMongoFeignController.class
+io/rrlabs/tracing/opentelemetry/tracefeign/client/TracingMongoClient.class

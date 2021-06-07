@@ -1,0 +1,17 @@
+server:
+  port: 9082
+
+spring:
+  data:
+    mongodb:
+      host: mongo
+      port: 27017
+      database: tracing_store_db
+      authentication-database: admin
+      username: root
+      password: example
+  rabbitmq:
+    host: rabbitmq
+    port: 5672
+    username: guest
+    password: guest
